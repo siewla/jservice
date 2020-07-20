@@ -9,7 +9,7 @@ export class MainContent extends Component {
         this.state ={
             score: 0,
             question: null,
-            baseURL: "http://jservice.io/api/random"
+            baseURL: "https://jservice.io/api/random"
         }
     }
 
